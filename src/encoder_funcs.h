@@ -5,6 +5,6 @@
 #include <Arduino.h>
 #include <globals.h>
 
-int read_enc();
+char read_enc();
 
 #endif
